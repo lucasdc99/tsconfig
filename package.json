@@ -1,0 +1,10 @@
+{
+  "name": "@lucactus/tsconfig",
+  "private": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "tsconfig.json",
+  "keywords": [],
+  "author": "Lucas De Curtis",
+  "license": "ISC"
+}
